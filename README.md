@@ -5,7 +5,7 @@ Animated Roblox UI library with a Linoria-style API. Written from scratch, so it
 ## Load
 
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Azic46/AzicUI/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Azic46/AzicUIV3/refs/heads/main/Library.lua"))()
 ```
 
 See `Example.lua` for every element.
