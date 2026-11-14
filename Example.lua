@@ -4,7 +4,7 @@
     live matrix background, glow + shine, Open/Close launcher.
 ]]
 
-local repo = "https://raw.githubusercontent.com/Azic46/AzicUIV3/refs/heads/main/Library.lua"
+local repo = "https://raw.githubusercontent.com/Azic46/AzicUIV3/refs/heads/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
 local Options, Toggles = Library.Options, Library.Toggles
 
